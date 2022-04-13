@@ -7,7 +7,7 @@ description: 'Este es mi primer post de la travesía en la Misión de Backend co
 Hey! Éste será mi primer post sobre lo que yo creo debe ser la cultura del desarrollo de software.
 
 Cuando éra pequeño crecí viendo a mi tío programar en MS-DOS(y jugando DOOM), veía cosas que no entendía pero me fascinaban.
-Conforme crecí, me dí lo tanto que me relajaba y facilitaba la programación,
+Conforme crecí, me dí cuenta lo tanto que me relajaba y facilitaba la programación,
 lo que me provocó un dilema: '¿Con lo rápido que avanza la tecnología, cuáles éran las implicaciones morales?
 
 Como bien sabemos, la tecnología avanza a pasos agigantados, un ejemplo claro es la IA, por ejemplo GPT-3,
