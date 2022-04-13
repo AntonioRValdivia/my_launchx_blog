@@ -6,7 +6,17 @@
     <description>Recent content in Launch X Bitácora de viaje on Bitácora de Viaje de Antonio Valdivia</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 24 Feb 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://antoniorvaldivia.github.io/my_launchx_blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 21 Feb 2022 18:16:21 -0600</lastBuildDate><atom:link href="https://antoniorvaldivia.github.io/my_launchx_blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>La cultura en el desarrollo de software</title>
+      <link>https://antoniorvaldivia.github.io/my_launchx_blog/posts/intro/</link>
+      <pubDate>Mon, 21 Feb 2022 18:16:21 -0600</pubDate>
+      
+      <guid>https://antoniorvaldivia.github.io/my_launchx_blog/posts/intro/</guid>
+      <description>Hey! Éste será mi primer post sobre lo que yo creo debe ser la cultura del desarrollo de software.
+Cuando éra pequeño crecí viendo a mi tío programar en MS-DOS(y jugando DOOM), veía cosas que no entendía pero me fascinaban. Conforme crecí, me dí lo tanto que me relajaba y facilitaba la programación, lo que me provocó un dilema: &amp;lsquo;¿Con lo rápido que avanza la tecnología, cuáles éran las implicaciones morales?</description>
+    </item>
+    
     <item>
       <title>About me</title>
       <link>https://antoniorvaldivia.github.io/my_launchx_blog/pages/about/</link>
