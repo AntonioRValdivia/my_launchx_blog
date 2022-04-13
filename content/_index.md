@@ -5,8 +5,7 @@ description: The hallway smelt of boiled cabbage and old rag mats.
 
 Hola ✌️  soy el explorer Antonio Valdivia y este es mi blog personal donde compartiré mis aventuras de Launch X.
 
-Soy estudiante de último semestre de Ingeniería en Informática en el IPN.<br>
-Aparte de programar, me encanta, la música, el rock y patinar.\
+Soy estudiante de último semestre de Ingeniería en Informática en el IPN, aparte de programar, me encanta, la música, el rock y patinar.\
 Espero un día mi pasión por la programación me lleve a construir grandes cosas para que la humanidad llegue a otros planetas.🚀
 
 Te invito a conocer mis aprendizajes y leer mis experiencias.
