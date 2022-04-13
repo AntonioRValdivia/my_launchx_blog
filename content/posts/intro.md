@@ -6,14 +6,13 @@ description: 'Este es mi primer post de la travesía en la Misión de Backend co
 
 Hey! Éste será mi primer post sobre lo que yo creo debe ser la cultura del desarrollo de software.
 
-Cuando éra pequeño crecí viendo a mi tío programar en MS-DOS(y jugando DOOM), veía cosas que no entendía pero me fascinaban.
-Conforme crecí, me dí cuenta lo tanto que me relajaba y facilitaba la programación,
-lo que me provocó un dilema: '¿Con lo rápido que avanza la tecnología, cuáles éran las implicaciones morales?
+Cuando éra pequeño crecí viendo a mi tío programar en MS-DOS(y jugando DOOM), veía cosas que no entendía pero me fascinaban.\
+Conforme crecí, me dí cuenta lo tanto que me gustaba y facilitaba la programación,
+lo que me provocó un dilema: **¿Con lo rápido que avanza la tecnología, cuáles éran las implicaciones morales de ésta?**
 
 Como bien sabemos, la tecnología avanza a pasos agigantados, un ejemplo claro es la IA, por ejemplo GPT-3,
-el gran valor de la data y la propaganda masiva.
-
-A medida que estos dispositivos se convierten en una parte más importante de la sociedad y toman decisiones cada vez más relevante, 
+el gran valor de la data y la propaganda masiva.\
+A medida que estos dispositivos se convierten en una parte más importante de la sociedad y toman decisiones cada vez más relevantes, 
 es necesario asegurarse que esta inteligencia artificial va aprendiendo de la manera correcta.
 
 Es importante enseñarle, no solo información, sino los principios de buena ciudadanía: responsabilidad, equidad y transparencia. 
